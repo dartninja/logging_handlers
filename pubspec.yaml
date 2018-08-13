@@ -10,5 +10,4 @@ dependencies:
   logging: '>0.8.10+3'
 dev_dependencies:
   browser: '>=0.8.10+3'
-  polymer: '>=0.8.10'
   unittest: '>=0.8.10+3'
